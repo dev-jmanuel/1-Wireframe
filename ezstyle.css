@@ -1,0 +1,62 @@
+body{
+    background-color: gray;
+    text-align: center; 
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}
+
+header {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: gray;
+    background: white;
+  }
+
+  nav {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: gray;
+    background: white;
+  }
+
+#section{
+    padding: 20px;
+    margin-bottom: 20px;
+    color: gray;
+    background: white;
+    overflow: auto;
+    float:left;
+    width: 47.5%;   
+}
+
+#art{
+    padding: 20px;
+    margin-bottom: 20px;
+    color: white;
+    background: gray;
+}
+
+#h, #p {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: gray;
+    background: white;
+}
+
+aside {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: gray;
+    background: white;
+    float:left;
+    width: 47.5%;
+    margin-left: .5%;
+    line-height: 1570%;
+}
+
+footer {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: gray;
+    background: white;
+    clear: both;
+}
